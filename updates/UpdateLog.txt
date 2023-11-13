@@ -1,0 +1,56 @@
+13/06/2023 14:22:30: ################################
+13/06/2023 14:22:30: Starting update
+13/06/2023 14:22:30: Toolbox update folder: C:\SOLIDWORKS Data\updates\
+13/06/2023 14:22:30: Toolbox folder: C:\SOLIDWORKS Data\
+13/06/2023 14:22:30: Installation Media Location: E:\\Toolbox\
+13/06/2023 14:22:30: Database: C:\SOLIDWORKS Data\lang\english\swbrowser.sldedb
+13/06/2023 14:22:30: Run from IM: True
+13/06/2023 14:22:31: Processing: 1600_Install Ansi Inch.tbox
+13/06/2023 14:22:33: Processing: 1600_Install Ansi Metric.tbox
+13/06/2023 14:22:33: Processing: 1600_Install AS.tbox
+13/06/2023 14:22:34: Processing: 1600_Install BSI.tbox
+13/06/2023 14:22:34: Processing: 1600_Install CISC.tbox
+13/06/2023 14:22:34: Processing: 1600_Install DIN.tbox
+13/06/2023 14:22:36: Processing: 1600_Install GB.tbox
+13/06/2023 14:22:40: Processing: 1600_Install IS.tbox
+13/06/2023 14:22:41: Processing: 1600_Install ISO.tbox
+13/06/2023 14:22:42: Processing: 1600_Install JIS.tbox
+13/06/2023 14:22:43: Processing: 1600_Install KS.tbox
+13/06/2023 14:22:45: Processing: 1600_Install MIL.tbox
+13/06/2023 14:22:46: Processing: 1600_Install SKF.tbox
+13/06/2023 14:22:46: Processing: 1600_Install Torrington Inch.tbox
+13/06/2023 14:22:46: Processing: 1600_Install Torrington Metric.tbox
+13/06/2023 14:22:46: Processing: 1600_Install Truarc.tbox
+13/06/2023 14:22:46: Processing: 1600_Install Unistrut.tbox
+13/06/2023 14:22:47: Processing: 1600_Toolbox part analysis.tbox
+13/06/2023 14:22:48: Processing standard Ansi Inch
+13/06/2023 14:22:48: Processing standard Ansi Metric
+13/06/2023 14:22:48: Processing standard BSI
+13/06/2023 14:22:48: Processing standard DIN
+13/06/2023 14:22:48: Processing standard ISO
+13/06/2023 14:22:48: Processing standard CISC
+13/06/2023 14:22:48: Processing standard Unistrut
+13/06/2023 14:22:48: Processing standard Truarc
+13/06/2023 14:22:48: Processing standard JIS
+13/06/2023 14:22:48: Processing standard SKF
+13/06/2023 14:22:48: Processing standard Torrington Inch
+13/06/2023 14:22:48: Processing standard Torrington Metric
+13/06/2023 14:22:48: Processing standard GB
+13/06/2023 14:22:48: Processing standard MIL
+13/06/2023 14:22:48: Processing standard KS
+13/06/2023 14:22:48: Processing standard IS
+13/06/2023 14:22:48: Processing standard AS
+13/06/2023 14:22:48: Processing: 1608_Analysis.tbox
+13/06/2023 14:23:13: Processing: 1700_Analyze.tbox
+13/06/2023 14:23:26: Processing: 1701_Update.tbox
+13/06/2023 14:24:04: Processing: 1702_Analysis.tbox
+13/06/2023 14:24:07: Processing: 1703_Update.tbox
+13/06/2023 14:24:42: Processing: 1800_Analysis.tbox
+13/06/2023 14:24:42: Processing: 1801_Update.tbox
+13/06/2023 14:25:10: Processing: 1900_Analysis.tbox.gz
+13/06/2023 14:25:11: Processing: 1901_Update.tbox.gz
+13/06/2023 14:25:13: Processing: 1902_Analysis.tbox.gz
+13/06/2023 14:25:14: Processing: 1903_Update.tbox.gz
+13/06/2023 14:25:15: Processing: 1904_Analysis.tbox.gz
+13/06/2023 14:25:15: Processing: 1905_Update.tbox.gz
+13/06/2023 14:25:15: Update did not complete successfully: 1905_Update.tbox.gz
